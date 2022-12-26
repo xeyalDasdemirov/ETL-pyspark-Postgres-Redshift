@@ -41,3 +41,11 @@ Here I will describe ETL process from Amazon RDS Postgres to Amazon Redshift to 
 
 <img width="1511" alt="5" src="https://user-images.githubusercontent.com/28351206/209581164-6bd71c45-a954-433e-b0bb-61b7f481e606.png">
 
+
+
+5. Now we can see the result in Amazon Redshift: 
+
+<img width="1511" alt="6" src="https://user-images.githubusercontent.com/28351206/209581513-040f37d6-adcb-4469-ae61-5dedb909e697.png">
+
+<img width="1511" alt="7" src="https://user-images.githubusercontent.com/28351206/209581520-cf1c6d64-6c2a-46cd-a1b4-bbc62864f54a.png">
+
