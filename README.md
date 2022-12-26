@@ -26,6 +26,6 @@ Here I will describe ETL process from Amazon RDS Postgres to Amazon Redshift to 
       4.1  Update the credentials for DBs and S3 bucket for tempdir in the ETL-pyspark-Postgres-Redshift.py, copy paste script in the EMR using: 
            nano ETL-pyspark-Postgres-Redshift.py
 
-      4.2. Run 
+      4.2. Run the below commoan in the EMR: 
                         
-                 spark-submit ETL-pyspark-Postgres-Redshift.py --properties spark.driver.extraClassPath=postgresql-42.2.5.jar,spark.jars.packages=org.postgresql:postgresql:42.2.5
+      spark-submit ETL-pyspark-Postgres-Redshift.py --properties spark.driver.extraClassPath=postgresql 42.2.5.jar,spark.jars.packages=org.postgresql:postgresql:42.2.5
