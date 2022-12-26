@@ -23,4 +23,5 @@ Here I will describe ETL process from Amazon RDS Postgres to Amazon Redshift to 
 
 4. Create ETL-pyspark-Postgres-Redshift.py sfile and run spark-submit command in the EMR:
 
-      4.1. Update the credentials for DBs and S3 bucket for tempdir in the ETL-pyspark-Postgres-Redshift.py, copy paste script in the EMR using: nano ETL-pyspark-Postgres-Redshift.py
+      4.1. Update the credentials for DBs and S3 bucket for tempdir in the ETL-pyspark-Postgres-Redshift.py, copy paste script in the EMR using: 
+           nano ETL-pyspark-Postgres-Redshift.py
