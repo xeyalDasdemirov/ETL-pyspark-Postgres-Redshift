@@ -27,5 +27,8 @@ Here I will describe ETL process from Amazon RDS Postgres to Amazon Redshift to 
            nano ETL-pyspark-Postgres-Redshift.py
 
       4.2. Run the below commoan in the EMR: 
+
+
+spark-submit ETL-pyspark-Postgres-Redshift.py --properties spark.driver.extraClassPath=postgresql-42.2.5.jar,spark.jars.packages=org.postgresql:postgresql:42.2.5
                         
-      spark-submit ETL-pyspark-Postgres-Redshift.py --properties spark.driver.extraClassPath=postgresql42.2.5.jar,spark.jars.packages=org.postgresql:postgresql:42.2.5
+
