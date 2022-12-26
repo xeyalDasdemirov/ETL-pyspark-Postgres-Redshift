@@ -33,4 +33,11 @@ Here I will describe ETL process from Amazon RDS Postgres to Amazon Redshift to 
                         
 <img width="1511" alt="1" src="https://user-images.githubusercontent.com/28351206/209580982-b8cb5f0f-13fc-4435-af95-f147817cae36.png">
 
+<img width="734" alt="2" src="https://user-images.githubusercontent.com/28351206/209581144-568d7f56-a4b0-49c3-aae5-cacf527fa384.png">
+
+<img width="943" alt="3" src="https://user-images.githubusercontent.com/28351206/209581152-4d33b2c1-d430-4dd1-8f6e-fabf6e5ca9b4.png">
+
+<img width="1511" alt="4" src="https://user-images.githubusercontent.com/28351206/209581157-c97cbde4-1133-416b-bed2-f64787056a28.png">
+
+<img width="1511" alt="5" src="https://user-images.githubusercontent.com/28351206/209581164-6bd71c45-a954-433e-b0bb-61b7f481e606.png">
 
