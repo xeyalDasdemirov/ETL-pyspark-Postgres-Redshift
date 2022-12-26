@@ -31,4 +31,6 @@ Here I will describe ETL process from Amazon RDS Postgres to Amazon Redshift to 
 
             spark-submit ETL-pyspark-Postgres-Redshift.py --properties spark.driver.extraClassPath=postgresql-42.2.5.jar,spark.jars.packages=org.postgresql:postgresql:42.2.5
                         
+<img width="1511" alt="1" src="https://user-images.githubusercontent.com/28351206/209580982-b8cb5f0f-13fc-4435-af95-f147817cae36.png">
+
 
